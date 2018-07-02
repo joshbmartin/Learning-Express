@@ -1,2 +1,2 @@
-# Learning-Express
-Never used Express, just testing out some things
+# Small Express/EJS App
+Built a quick 3 page app using Node/Express/EJS
