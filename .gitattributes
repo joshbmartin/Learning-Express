@@ -1,5 +1,1 @@
-* text=auto
-
-*.js    text
-*.ejs   binary
-*.jpg   binary
+static/* views
