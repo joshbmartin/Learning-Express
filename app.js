@@ -70,9 +70,9 @@ app.get('/post/:id', function(req, res){
 });
 
 app.get('*', function(req, res){
-    res.send('Sorry, page not found...What are you doing with your life?');
+    res.send('Page not found, you can do better nice time!');
 });
 //app.listen(8000, () => console.log('App listening on port 8000!'));
 app.listen(8000, function(){
-    console.log('Server is listening on port 8000!');
+    console.log('Server is listening on localhost port 8000!');
 });
